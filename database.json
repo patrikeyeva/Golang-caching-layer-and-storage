@@ -1,0 +1,10 @@
+{
+    "Filepath": "database.json",
+    "Tables": {
+        "articles": {
+            "Name": "articles",
+            "Data": {},
+            "RowsCount": 1
+        }
+    }
+}
